@@ -1,0 +1,14 @@
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/bin/Debug/net8.0/PatikaPolymorphism
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/bin/Debug/net8.0/PatikaPolymorphism.deps.json
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/bin/Debug/net8.0/PatikaPolymorphism.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/bin/Debug/net8.0/PatikaPolymorphism.dll
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/bin/Debug/net8.0/PatikaPolymorphism.pdb
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/obj/Debug/net8.0/PatikaPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/obj/Debug/net8.0/PatikaPolymorphism.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/obj/Debug/net8.0/PatikaPolymorphism.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/obj/Debug/net8.0/PatikaPolymorphism.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/obj/Debug/net8.0/PatikaPolymorphism.dll
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/obj/Debug/net8.0/refint/PatikaPolymorphism.dll
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/obj/Debug/net8.0/PatikaPolymorphism.pdb
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/obj/Debug/net8.0/PatikaPolymorphism.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/PatikaPolymorphism/PatikaPolymorphism/obj/Debug/net8.0/ref/PatikaPolymorphism.dll
